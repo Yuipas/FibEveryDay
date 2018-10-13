@@ -1,0 +1,22 @@
+{
+  "name": "fibonaccieveryday",
+  "version": "1.0.0",
+  "description": "A twitterbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "twitterbot",
+    "fibonacci",
+    "sequence"
+  ],
+  "author": "Yuipas",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {}
+}
